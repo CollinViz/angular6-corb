@@ -1,7 +1,7 @@
 # Angular6Corb
 
 This project is only to show the two issue with php-crud-api2
-1. if you post other data to the server API it brakes
+1. if you post other data to the server API it does not work
 2. If the server give a server error the CORB is not handled
 
 ## Development server
